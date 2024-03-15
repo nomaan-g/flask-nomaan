@@ -8,16 +8,16 @@ def hello_world():
 
 @app.route("/name")
 def name():
-    return "Abeer"
+    return "Meharsh"
 
 @app.route("/age")
 def age():
-    return "23"
+    return "20"
 
 @app.route("/hello")
 def hello():
-    return "hello"
+    return "Hello"
 
 @app.route("/goodbye")
 def goodbye():
-    return "goodbye"
+    return "Goodbye"
